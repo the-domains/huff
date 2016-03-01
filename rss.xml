@@ -4,7 +4,7 @@
         <description><![CDATA[huff]]></description>
         <link>https://thegrid.ai/huff/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 16:48:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2016 16:55:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/huff/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Willkommen bei HUFF INFOTECH]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/huff/53965d10-74d7-4584-a5b2-717f37891eba/index.html</link>
             <guid isPermaLink="false">53965d10-74d7-4584-a5b2-717f37891eba</guid>
             <pubDate>Tue, 01 Mar 2016 16:34:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6330ac57-f3a4-454d-9fdf-e1305425d129.jpg">]]></description>
+            <link>https://thegrid.ai/huff/6276d6e1-e836-4298-91a4-1b2ce7634414/index.html</link>
+            <guid isPermaLink="false">6276d6e1-e836-4298-91a4-1b2ce7634414</guid>
+            <pubDate>Tue, 01 Mar 2016 16:55:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
