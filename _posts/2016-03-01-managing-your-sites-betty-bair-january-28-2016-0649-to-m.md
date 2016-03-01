@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Managing Your Sites   Betty Bair January 28, 2016 06:49 To manage, edit, and view your site, select your site from the site switcher menu. From here, you can na'
-datePublished: '2016-03-01T16:45:14.557Z'
-dateModified: '2016-03-01T16:44:59.909Z'
+datePublished: '2016-03-01T16:47:10.751Z'
+dateModified: '2016-03-01T16:45:21.844Z'
 author: []
 title: ''
 sourcePath: _posts/2016-03-01-managing-your-sites-betty-bair-january-28-2016-0649-to-m.md
